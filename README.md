@@ -155,6 +155,11 @@ _____________
 TEBHADALALPUR 235 TEBHADALALPUR JAMNAGAR GUJARAT 0.8 E-53 12-Mar-12
 ___________
 PRIOR HISTORY
+__________
+The project activity is registered under the Clean Development Mechanism (CDM) project with
+registration number 8324. The crediting period of this project under CDM is 23/11/2012 to
+22/11/2019. PP seeks verification under UCR from 01/12/2019 onwards, i.e., crediting period for
+UCR starts from 01/12/2019. Hence, there is no double counting for the said project. 
 _______________
 CDM
 
