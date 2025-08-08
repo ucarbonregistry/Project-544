@@ -156,7 +156,30 @@ TEBHADALALPUR 235 TEBHADALALPUR JAMNAGAR GUJARAT 0.8 E-53 12-Mar-12
 ___________
 PRIOR HISTORY
 _______________
-Monitoring report: 23 Nov 2012 - 30 Nov 2013 
+CDM
+
+Project 8324 : Wind power project in Jamnagar District, Gujarat, India
+
+Authorized Participants: M/s Torrent Power Limited
+
+Sectoral scopes	1 : Energy industries (renewable - / non-renewable sources)
+
+Activity Scale	LARGE
+
+Methodologies Used	ACM0002 ver. 12 - Consolidated baseline methodology for grid-connected electricity generation from renewable sources
+
+Standardized baselines used	N/A
+
+Amount of Reductions	85,281 metric tonnes CO2 equivalent per annum
+
+Registration Date	23 Nov 12 (Date of registration action 11 Feb 13)   
+
+Crediting Period	23 Nov 12 - 22 Nov 19 (Renewable - Expired)
+
+Renewal no longer possible
+
+__________
+CDM Monitoring report: 23 Nov 2012 - 30 Nov 2013 
 
 Issuance request state: Issued
 CERs requested up to 31 December 2012: 8790
